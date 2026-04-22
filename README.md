@@ -6,10 +6,8 @@ This project is perfect for:
 📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
 📚 Anyone learning Python, SQL, and Power BI
 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
-🎥 Watch this YouTube video to implement the full project from scratch:
-Advanced Data Analysis Portfolio Project using Retail Customer Data 🔗 Link to Video: Watch on Youtube
 
-📌 Project Overview
+## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
@@ -22,12 +20,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 Project Workflow
 
-🛠️ How to Use This Project
-Clone the repository
-
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+## 🛠️ How to Use This Project
+1. Clone the repository
 
 This file contains:
 
@@ -39,7 +33,7 @@ Data cleaning
 
 Connection to SQL Database
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+Load the data from Python notebook into PostgreSQL
 
 Create a database in SQL
 
